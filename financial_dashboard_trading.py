@@ -2,7 +2,7 @@
 """
 金融資料視覺化看板
 
-@author: 羅元廷
+@author: 賴加耕
 """
 
 # 載入必要模組
@@ -25,8 +25,8 @@ import matplotlib
 ###### 設定網頁標題介面 
 html_temp = """
 		<div style="background-color:#3872fb;padding:10px;border-radius:10px">   
-		<h1 style="color:white;text-align:center;">金融看板與程式交易平台 </h1>
-		<h2 style="color:white;text-align:center;">Financial Dashboard and Program Trading </h2>
+		<h1 style="color:white;text-align:center;">金融大數據分析期末作業 </h1>
+		<h2 style="color:white;text-align:center;">資科三B 411025986 賴加耕 </h2>
 		</div>
 		"""
 stc.html(html_temp)
